@@ -54,7 +54,7 @@ $lang = array_merge($lang, array(
 	'COOKIE_BOX_POSITION'				=> 'Posição da caixa de cookies',
 	'COOKIE_BOX_POSITION_EXPLAIN'		=> 'Posicione a caixa de aceitação de cookies no lado esquerdo ou direito.',
 
-	'COOKIE_CUSTOM_PAGE'				=> 'Use cores de página de cookies personalizadas',
+	'COOKIE_CUSTOM_PAGE'				=> 'Use cores personalizadas na página de cookies',
 	'COOKIE_CUSTOM_PAGE_EXPLAIN'		=> 'Use as cores personalizadas para a página de política de cookies.<br /> Configurando isso para <strong>Não</strong> usará as cores padrão.',
 
 	'COOKIE_DETECT'						=> 'Detectar se o cookie é necessário',
@@ -67,20 +67,20 @@ $lang = array_merge($lang, array(
 	'COOKIE_LOG_ERRORS'					=> 'Log de erros',
 	'COOKIE_LOG_ERRORS_EXPLAIN'			=> 'Registro todos os erros detectados ao pesquisar o endereço IP do usuário.',
 
-	'COOKIE_PAGE_BG_COLOUR'				=> 'Cor de fundo da página de cookie personalizada',
+	'COOKIE_PAGE_BG_COLOUR'				=> 'Cor de fundo personalizada na página de cookie ',
 	'COOKIE_PAGE_BG_COLOUR_EXPLAIN'		=> 'Selecione a cor de fundo para a página de política de cookies.',
-	'COOKIE_PAGE_TXT_COLOUR'			=> 'Cor personalizada do texto da página do cookie',
+	'COOKIE_PAGE_TXT_COLOUR'			=> 'Cor do texto personalizada na página do cookie',
 	'COOKIE_PAGE_TXT_COLOUR_EXPLAIN'	=> 'Selecione a cor do texto para a página de política de cookies.',
 
 	'COOKIE_POLICY'						=> 'Política de cookies',
 	'COOKIE_POLICY_ENABLE'				=> 'Ativar política de cookies',
-	'COOKIE_POLICY_ENABLE_EXPLAIN'		=> 'Ativar/desativar todos os requisitos do usuário para aceitar o uso de cookies, de acordo com a diretriz de Cookie da EU (2012), nesta placa.',
+	'COOKIE_POLICY_ENABLE_EXPLAIN'		=> 'Ativar/desativar todos os requisitos do usuário para aceitar o uso de cookies, de acordo com a diretriz de Cookie da EU (2012), neste forum.',
 	'COOKIE_POLICY_EXPLAIN'				=> 'Defina as opções para gerenciar a Política de cookies.',
 	'COOKIE_POLICY_LOG'					=> '<strong>Configurações de política de cookies atualizadas</strong>',
 	'COOKIE_POLICY_MANAGE'				=> 'Gerenciar configurações',
 	'COOKIE_POLICY_ON_INDEX'			=> 'Mostrar apenas no índice',
 	'COOKIE_POLICY_ON_INDEX_EXPLAIN'	=> 'Mostre a caixa de aceitação da política de cookies em todas as páginas ou apenas na página de índice.',
-	'COOKIE_POLICY_OPTIONS'				=> 'Opções de política de cookies',
+	'COOKIE_POLICY_OPTIONS'				=> 'Opções de Política de Cookies',
 
 	'COOKIE_RIGHT'						=> 'Direita',
 
